@@ -4,7 +4,7 @@ This Code Book described the data used in the project, as well as the processing
 
 ## Data Overview
 
-30 volunteers performed 6 different activities while wearing a smartphone. The smartphone captured and stored various data regarding their movements.
+30 volunteers (a.k.a. subjects) performed 6 different activities while wearing a smartphone. The smartphone captured and stored various data regarding their movements.
 
 ## Measurement Files Description
 

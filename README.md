@@ -24,7 +24,7 @@ Project task and original dataset were described in the ["Human Activity Recogni
 
 ## Expected Output
 
-Once script runs, a tidy data set will be generated, see [tidy.csv](tidy.csv).
+Once script runs, a tidy data set will be generated, see [tidy.txt](tidy.txt).
 
 ## Additional Information
 

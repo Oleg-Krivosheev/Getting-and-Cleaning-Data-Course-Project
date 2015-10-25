@@ -64,4 +64,7 @@ m.dt    <- melt(selected.mean_std, id = c("subject","activity"))
 tidy.dt <- dcast(m.dt, subject + activity ~ variable, mean)
 
 # Finally, save tidy data set as a CSV to a file in the IETF RFC4180 compatible format
-write.csv(tidy.dt, "tidy.csv", row.names=FALSE, eol = "\r\n")
+# write.csv(tidy.dt, "tidy.csv", row.names=FALSE, eol = "\r\n")
+
+# Finally, save tidy data set as a TXT file
+write.table(tidy.dt, "tidy.txt", row.names=FALSE, eol = "\r\n")

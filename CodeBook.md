@@ -29,4 +29,4 @@ More information is available in the distribution files `features_info.txt` and 
 data table with 33 mean columns and 33 std.deviation columns. Activity and subject id columns were added.
 3. The activity column was converted, using `activity_labels.txt`, from a integer to a string label.
 4. We produced tidy data set with mean value of every feauture per subject and activity.
-5. Tidy data table was saved as Comma-Separated-Values into a CSV file. CSV was made to conform to the [IETF RFC4180](https://tools.ietf.org/html/rfc4180) specification for CSV files
+5. Tidy data table was saved as TXT file, with no row names.
